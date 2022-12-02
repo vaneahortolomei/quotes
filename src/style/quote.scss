@@ -1,0 +1,40 @@
+.quote {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    background: #ffe388;
+    max-width: 500px;
+    margin: 0 auto;
+    &__container {
+        margin: 30px 0;
+        width: 100%;
+        text-align: center;
+    }
+    &__text {
+        color: #856c49;
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    &__count {
+        position: absolute;
+        top: -15px;
+        padding: 5px;
+        background: #fff;
+        border-radius: 5px;
+        color: #42b5a3;
+        font-weight: bold;
+    }
+    &__title {
+        color: #1a1a1a;
+    }
+    &__author {
+        display: block;
+        color: #1a1a1a;
+        text-align: right;
+        padding: 0 30px;
+    }
+}

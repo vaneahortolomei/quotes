@@ -1,4 +1,5 @@
-import './style.css'
-import './src/main.scss'
+import './src/style/index.scss'
+import {showQuote} from '/src/js/quote';
 
-// import javascriptLogo from './javascript.svg'
+
+document.querySelector('#btn').addEventListener('click', showQuote);
