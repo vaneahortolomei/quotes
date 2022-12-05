@@ -2,35 +2,53 @@
     "quotes": [
         {
             "id": 1,
-            "text": "Daca te maninca in cur, e si te scarpina!"
+            "text": "The journey of a thousand miles begins with one step.",
+            "author": "Lao Tzu"
         },
         {
             "id": 2,
-            "text": "Nu poti urla,cinta!"
+            "text": "That which does not kill us makes us stronger.",
+            "author": "Friedrich Nietzsche"
         },
         {
             "id": 3,
-            "text": "Viata dura, o pula in gura..."
+            "text": "Life is what happens when you’re busy making other plans.",
+            "author": "John Lennon"
         },
         {
             "id": 4,
-            "text": "Omul prost,timp pierdut!"
+            "text": "When the going gets tough, the tough get going.",
+            "author": "Mahatma Gandhi"
         },
         {
             "id": 5,
-            "text": "Cine numara bine, face temele pentru acasa la toti!"
+            "text": "You must be the change you wish to see in the world.",
+            "author": "Mahatma Gandhi"
         },
         {
             "id": 6,
-            "text": "Nu rupe florile caci svabra va nimeri in cur!"
+            "text": "You only live once, but if you do it right, once is enough.",
+            "author": "Mae West"
         },
         {
             "id": 7,
-            "text": "Dovada de minte aduce probleme..."
+            "text": "Tough times never last but tough people do.",
+            "author": "Robert H. Schuller"
         },
         {
             "id": 8,
-            "text": "Cine doarme mult face bani multi!"
+            "text": "Get busy living or get busy dying.",
+            "author": "Stephen King"
+        },
+        {
+            "id": 9,
+            "text": "Whether you think you can or you think you can’t, you’re right.",
+            "author": "Henry Ford"
+        },
+        {
+            "id": 10,
+            "text": "Tis better to have loved and lost than to have never loved at all.",
+            "author": "Alrded Lord Tennyson"
         }
     ]
 }
